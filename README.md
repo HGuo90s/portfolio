@@ -1,5 +1,6 @@
-<h1>Hi, I'm Hanwei. I'm a data scientist. Here is my [LinkedIn](https://www.linkedin.com/in/hanwei-guo/). </h1>
+<h1> Hello! Welcome to my GitHub Portfolio </h1>
 
+I'm a data scientist. Here is my [LinkedIn](https://www.linkedin.com/in/hanwei-guo/).
 Please check out my GitHub projects and coding experiences!
 
 [Healthcare Claim Analysis](https://github.com/HGuo90s/healthcare_analysis)
