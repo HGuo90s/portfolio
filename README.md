@@ -8,11 +8,6 @@ Please check out my GitHub projects and coding experiences! <br>
 - Key Topics: Demand Forecasting, Price Elasticity of Demand, Customer Segmentation, Personalized Pricing
 - A journey to explore the online retail transactions, optimizing pricing and maximizing profit margins.  <br />
 
-[Code Transaction](https://github.com/HGuo90s/CodeTranslation)
-- Language: Python
-- Key Topics: Large Language Models (LLMs), Code Transaction
-- A useful project to transaction codes written in Python to other coding languages like Java.   <br />
-
 [Diabetes Treatment Research](https://github.com/HGuo90s/healthcare_analysis) 
 - Language: Python
 - Key Topics: Healthcare Analytics, Diabetes, Early Detection, Insulin Dosage Optimization, Cost-effective Analysis
