@@ -3,6 +3,12 @@
 I'm a data scientist. Here is my [LinkedIn](https://www.linkedin.com/in/hanwei-guo/). <br>
 Please check out my GitHub projects and coding experiences! <br>
 
+[E-commerce ETL and Data Quality Project](https://github.com/HGuo90s/payment_etl_pipeline)
+- Languages: Python, SQL
+- Tools: AWS Services (AWS Glue, Amazon Redshift, Amazon S3, Amazon QuickSight), PySpark, Jupyter Notebook
+- Key Topics: Data Engineering (ETL pipelines, Data warehouse), Cloud Computing, Dashboard Visualization, Data Exploration, 
+- This GitHub project contains a comprehensive payment data processing system built with AWS cloud services. It offers an end-to-end cloud ETL pipeline that leverages AWS technologies to process e-commerce data. 
+
 [Pricing Optimization](https://github.com/HGuo90s/PriceOptimization)
 - Language: Python
 - Key Topics: Demand Forecasting, Price Elasticity of Demand, Customer Segmentation, Personalized Pricing
